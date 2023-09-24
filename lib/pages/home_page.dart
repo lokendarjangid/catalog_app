@@ -11,7 +11,7 @@ class MyHomePage extends StatelessWidget {
         title: Center(child: Text('Catalog App')),
       ),
       body: Center(
-        child: Text('Hello World'),
+        child: Text('Nice to meet you!'),
       ),
       drawer: MyDrawer(),
     );
